@@ -1,0 +1,17 @@
+{
+  "name": "js-learn",
+  "version": "1.0.0",
+  "description": "todo cli",
+  "main": "index.js",
+  "bin" : {
+    "todo" : "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sachin",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^14.0.3"
+  }
+}
